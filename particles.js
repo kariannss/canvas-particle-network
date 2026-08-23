@@ -1,0 +1,1 @@
+class ParticleNetwork { constructor(c) { this.c = c; } }
